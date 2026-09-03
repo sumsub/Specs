@@ -1,2 +1,2 @@
 # Specs
-The Sum&amp;Substance master repo of CocoaPods dependencies.
+The Sumsub master repo of CocoaPods dependencies.
